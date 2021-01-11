@@ -15,4 +15,6 @@
     console.log('cartlist',cartlist);
     cartQty.innerText = cartlist.length;
 var a = 10;
+var b = 10;
+console.log(a);
 // })();
